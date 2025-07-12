@@ -1,2 +1,2 @@
-# CBFriendsCost-master
-build a cost calculator between friends
+# CBFriendsCost
+CB Project
